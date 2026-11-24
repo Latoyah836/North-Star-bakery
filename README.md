@@ -1,0 +1,2 @@
+# North Star Bakery – Touchstone 3
+Open index.html locally. To publish, create or open your public GitHub repository, upload the files in this folder (not the ZIP itself), and commit. In Settings > Pages choose Deploy from a branch, main, / (root), then Save. Copy the repository URL and the published Pages URL into the Word template. Check both in a private browser. The contact form is a non-transmitting demonstration. The video is a compressed copy of the supplied asset.
